@@ -1,10 +1,12 @@
-# Plofile
+# I'm shimtomo 👋
 
 <p align="left">
   <a href="https://github.com/shimtomo/shimtomo/">
     <img src="https://komarev.com/ghpvc/?username=shimtomo" alt="yutkat" />
   </a>
 </p>
+
+I'm learning Machine/Deep Learning !!!
 
 
 <h3 align="left">Connect with me:</h3>
