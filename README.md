@@ -1,7 +1,10 @@
-# こんにちは 👋
+# Plofile
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimtomo
-)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/shimtomo/shimtomo/">
+    <img src="https://komarev.com/ghpvc/?username=shimtomo" alt="yutkat" />
+  </a>
+</p>
 
 
 <!-- コメント文
