@@ -1,4 +1,4 @@
-# I'm shimtomo 👋
+# I'm shimtomo
 
 <p align="left">
   <a href="https://github.com/shimtomo/shimtomo/">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm learning Machine/Deep Learning !!!
+I'm learning Machine/Deep Learning!
 
 
 <h3 align="left">Connect with me:</h3>
