@@ -1,4 +1,4 @@
-# I'm shimtomo
+# I'm shimazu tomoki
 
 <p align="left">
   <a href="https://github.com/shimtomo/shimtomo/">
